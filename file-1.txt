@@ -1,1 +1,3 @@
 This is file1 on master branch
+
+This line was add on master branch
