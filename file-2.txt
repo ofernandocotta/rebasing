@@ -1,5 +1,5 @@
 This is file-2 on master branch
 
-This line was added on master branch
+This line was edited on master branch
 
 A third line added on master branch
