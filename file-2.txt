@@ -3,3 +3,5 @@ This is file-2 on master branch
 This line was edited on master branch
 
 A third line added on master branch
+
+A fourth line was added on featrue-1 branch
